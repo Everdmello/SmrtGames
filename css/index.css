@@ -1,0 +1,44 @@
+body {
+    min-width: 372;
+}
+
+.wrapper {
+    min-height: 100vh;
+}
+
+#card1{
+    font-size: 140%;
+    line-height: 1.5;
+}
+#card2{
+    font-size: 140%;
+    line-height: 1.5;
+}
+#card3{
+    font-size: 140%;
+    line-height: 1.5;
+}
+#card4{
+    font-size: 140%;
+    line-height: 1.5;
+}
+#card5{
+    font-size: 140%;
+    line-height: 1.5;
+
+}
+#card6{
+    font-size: 140%;
+    line-height: 1.5;
+}
+#card7{
+    font-size: 140%;
+    line-height: 1.5;
+}
+#card8{
+    font-size: 140%;
+    line-height: 1.5;
+}
+#navbar{
+    font-size: 200%;
+}
